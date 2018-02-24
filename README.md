@@ -3,6 +3,7 @@ Cara menggunakan workbench untuk membuat laravel packages
 
 
 ## Install & Config Workbench
+Untuk lebih memahami packages ini silahkan pelajari dari git [JackieDo/workbench](https://github.com/JackieDo/workbench) yang dipakai ini.
 
 1. Install package `jackiedo/workbench`
 
